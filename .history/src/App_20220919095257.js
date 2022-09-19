@@ -25,7 +25,8 @@ const App = () => {
     <div className='max-w-[1440px] mx-auto bg-page overflow-hidden relative'>
   
       <Banner />
-
+     
+      {/* <div className='h-[4000px]'></div> */}
     </div>
   );
 };
