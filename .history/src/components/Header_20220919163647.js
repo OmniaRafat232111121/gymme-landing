@@ -24,7 +24,7 @@ const Header = () => {
   // destructure header data
   const { logo, btnLoginText, btnSignupText } = header;
   return (
-    <header 
+    <header id="h"
       className={`${
         isActive ? 'bg-neutral-500 py-[16px]' : 'bg-transparent py-[20px]'
       } fixed max-w-[1440px] left-0 right-0 mx-auto flex justify-between items-center px-[20px] lg:px-[80px] z-30 transition-all duration-300`}

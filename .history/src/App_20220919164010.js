@@ -31,7 +31,7 @@ const App = () => {
       <Community/>
       <Faq/>
       <Join/>
-      <Footer/>
+      <Footer
  
 
     </div>

@@ -31,7 +31,6 @@ const App = () => {
       <Community/>
       <Faq/>
       <Join/>
-      <Footer/>
  
 
     </div>

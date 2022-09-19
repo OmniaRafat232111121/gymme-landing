@@ -30,8 +30,7 @@ const App = () => {
       <Pricing/>
       <Community/>
       <Faq/>
-      <Join/>
-      <Footer/>
+      <J
  
 
     </div>
