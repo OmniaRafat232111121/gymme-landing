@@ -30,7 +30,7 @@ const App = () => {
       <Pricing/>
       <Community/>
       <Faq/>
-      <Join/>
+      <
  
 
     </div>
